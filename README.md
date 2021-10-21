@@ -65,3 +65,5 @@ Jawaban :
 <hr>
 
 ## Kesimpulan
+
+Kesimpulannya, pada praktikum ini kita sebagai mahasiswa, di ingatkan kembali tentang apa itu java, dan bagaimana pengoperasiannya
