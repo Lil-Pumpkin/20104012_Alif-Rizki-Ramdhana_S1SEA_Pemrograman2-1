@@ -43,7 +43,7 @@
       <recent name="E:\Folder Alif\Folder Kuliah\Semester 3\Folder Praktikum\Praktikum Pemrograman 2\Source Code\Tugas\GitHub\20104012_Alif-Rizki-Ramdhana_S1SEA_Pemrograman2\src\modul2\percobaan" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnakAyam">
+  <component name="RunManager" selected="Application.BigInteger">
     <configuration name="AnakAyam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="modul2.latihan.AnakAyam" />
       <module name="20104012_Alif-Rizki-Ramdhana_S1SEA_Pemrograman2" />
@@ -72,8 +72,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnakAyam" />
         <item itemvalue="Application.BigInteger" />
+        <item itemvalue="Application.AnakAyam" />
       </list>
     </recent_temporary>
   </component>
