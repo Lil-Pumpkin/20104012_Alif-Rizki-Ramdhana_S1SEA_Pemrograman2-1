@@ -4,6 +4,10 @@
     <list default="true" id="60f386b9-f75a-4c7f-80ce-4d0798ab8403" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/modul2/latihan/AnakAyam.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/modul2/latihan/BigInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul2/percobaan/Aritmatika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul2/percobaan/CobaUnicode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul2/percobaan/InputKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul2/percobaan/Tipe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +36,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/modul2/percobaan" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Folder Alif\Folder Kuliah\Semester 3\Folder Praktikum\Praktikum Pemrograman 2\Source Code\Tugas\GitHub\20104012_Alif-Rizki-Ramdhana_S1SEA_Pemrograman2\src\modul2\percobaan" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.AnakAyam">
     <configuration name="AnakAyam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
