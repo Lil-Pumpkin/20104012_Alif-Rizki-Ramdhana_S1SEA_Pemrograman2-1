@@ -60,8 +60,41 @@ Jawaban :
    Masukan Jumlah Ayam : 10
    ```
    
-3. [Jawaban Soal 3]()
-
+3. [Jawaban Soal 3](https://github.com/renzien/20104012_Alif-Rizki-Ramdhana_S1SEA_Pemrograman2/blob/modul2/src/modul2/latihan/Abc.java)
+   
+   Pertama, user akan diminta untuk menginput berapa jumlah testcase yang akan diuji coba, semisal :
+   ```java
+   Masukkan Jumlah Testcase : 2
+   ```
+   
+   Kemudian, sistem akan menampilkan list hurun A sampai dengan C, dengan yang dimulai dengan angka 1 dan berganti ke angka 2, seperti :
+   ```java
+   Masukkan A1 : 2
+   Masukkan B1 : 3
+   Masukkan C1 : 4
+   
+   Masukkan A2 : -1
+   Masukkan B2 : -3
+   Masukkan C2 : -7
+   ```
+   
+   Bagaimana itu bisa terjadi ? Dikarenakan, pada saat pengcodingan, digunakan sebuah perulangan for, yang dimana i = 0,
+   maka, akan ditambahkan dengan angka 1. 
+   ```java
+           for (int i = 0; i < t; i++) {
+            System.out.print("\nMasukkan A" + (i + 1) + "\t: ");
+            a[i] = sc.nextInt();
+            System.out.print("Masukkan B" + (i + 1) + "\t: ");
+            b[i] = sc.nextInt();
+            System.out.print("Masukkan C" + (i + 1) + "\t: ");
+            c[i] = sc.nextInt();
+        }
+   ```
+   Lalu compiler, otomatis membaca, dan sesuai dengan sifatnya dimana, jika i = 0, dan akan di tambahkan dengan angka 1,
+   maka, otomatis akan naik menjadi 1. 
+   
+   
+   
 <hr>
 
 ## Kesimpulan
