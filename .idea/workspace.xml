@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60f386b9-f75a-4c7f-80ce-4d0798ab8403" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/modul2/latihan/AnakAyam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul2/latihan/BigInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul2/percobaan/Aritmatika.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul2/percobaan/CobaUnicode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul2/percobaan/InputKeyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul2/percobaan/Tipe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul2/latihan/Abc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +37,20 @@
       <recent name="E:\Folder Alif\Folder Kuliah\Semester 3\Folder Praktikum\Praktikum Pemrograman 2\Source Code\Tugas\GitHub\20104012_Alif-Rizki-Ramdhana_S1SEA_Pemrograman2\src\modul2\percobaan" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BigInteger">
+  <component name="RunManager" selected="Application.Abc">
+    <configuration name="Abc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul2.latihan.Abc" />
+      <module name="20104012_Alif-Rizki-Ramdhana_S1SEA_Pemrograman2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul2.latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AnakAyam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="modul2.latihan.AnakAyam" />
       <module name="20104012_Alif-Rizki-Ramdhana_S1SEA_Pemrograman2" />
@@ -72,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Abc" />
         <item itemvalue="Application.BigInteger" />
         <item itemvalue="Application.AnakAyam" />
       </list>
@@ -98,5 +106,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
