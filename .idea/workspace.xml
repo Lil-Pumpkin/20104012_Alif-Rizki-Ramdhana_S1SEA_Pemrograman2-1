@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60f386b9-f75a-4c7f-80ce-4d0798ab8403" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/modul3/latihan/latihan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul3/percobaan/Alamat_Rumah.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul3/percobaan/Tabungan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul3/percobaan/Tes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul3/percobaan/TesTabungan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul3/latihan/LatihanTesTabungan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul3/latihan/latihan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul3/percobaan/Tabungan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modul3/percobaan/Tabungan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,27 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LatihanTesTabungan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul3.latihan.LatihanTesTabungan" />
+      <module name="20104012_Alif-Rizki-Ramdhana_S1SEA_Pemrograman2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul3.latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LatihanTesTabungan" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
